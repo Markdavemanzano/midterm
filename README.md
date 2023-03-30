@@ -1,2 +1,2 @@
-# midterm
+# midt
 lab exam
